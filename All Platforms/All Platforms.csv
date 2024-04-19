@@ -1,31 +1,31 @@
-Area Name;#1;#2;#3;#4;#5;#6;#7;#8;#9;SUM;;;;
-Redcrown Woods;4;5;8;7;9;-;-;-;-;33;;;;
-Colossal Drain;8;10;8;10;10;-;-;-;-;46;;;;
-False Kings’ Keep;14;7;6;4;-;-;-;-;-;31;;Main Babe;New Babe+;Ghost of the Babe
-Bargainburg;6;8;9;17;6;-;-;-;-;46;;328;438;467
-Great Frontier;8;5;9;6;5;7;-;-;-;40;;;;
-Stormwall Pass;8;5;6;5;6;7;6;-;-;43;;;;
-Chapel Perilous;18;14;10;8;-;-;-;-;-;50;;;;
-Blue Ruin;6;7;5;;-;-;-;-;-;18;;;;
-The Tower;6;5;6;4;-;-;-;-;-;21;;;;
-Brightcrown Woods;9;2;6;6;7;7;8;8;-;53;;;;
-Colossal Dungeon;11;19;7;13;8;4;13;-;-;75;;;;
-False Kings’ Castle;16;8;6;4;-;-;-;-;-;34;;;;
-Underburg;8;8;12;12;9;4;9;-;-;62;;;;
-Lost Frontier;7;6;9;8;5;7;5;-;-;47;;;;
-Hidden Kingdom;12;5;5;9;8;3;-;-;-;42;;;;
-Black Sanctum;7;7;6;6;8;7;-;-;-;41;;;;
-Deep Ruin;6;13;13;6;6;-;-;-;-;44;;;;
-The Dark Tower;5;7;10;8;6;5;-;-;-;41;;;;
-Philosopher’s Forest;6;12;8;11;4;6;-;-;-;47;;;;
-Bog;1;6;8;6;6;6;4;4;-;41;;;;
-Moulding Manor;4;16;9;16;16;16;13;10;-;100;;;;
-Bugstalk;7;10;7;7;12;9;6;-;-;58;;;;
-House of Nine Lives;19;9;14;10;11;4;5;-;-;72;;;;
-Phantom Tower;7;6;7;7;6;4;6;8;8;59;;;;
-Halted Ruin;6;6;4;5;7;7;8;9;-;52;;;;
-Tower of Anthumbra;4;6;7;7;6;4;6;-;-;40;;;;
-;;;;;;;;;Total:;1231;;;;
-;;;;;;;;;;;;;;
-Notes: There are 5 platforms that are shared by two screens. They’re treated as one platform, that's why total number is 1231.;;;;;;;;;;;;;;
-Platform is defined as any surface that the king can stand and jump from. If you cannot walk directly from one surface to another and back without jumping, then these are considered 2 separate platforms. This includes platforms in hidden areas. ;;;;;;;;;;;;;;
+Area Name,#1,#2,#3,#4,#5,#6,#7,#8,#9,SUM,,,,
+Redcrown Woods,4,5,8,7,9,-,-,-,-,33,,,,
+Colossal Drain,8,10,8,10,10,-,-,-,-,46,,,,
+False Kings’ Keep,14,7,6,4,-,-,-,-,-,31,,Main Babe,New Babe+,Ghost of the Babe
+Bargainburg,6,8,9,17,6,-,-,-,-,46,,328,438,467
+Great Frontier,8,5,9,6,5,7,-,-,-,40,,,,
+Stormwall Pass,8,5,6,5,6,7,6,-,-,43,,,,
+Chapel Perilous,18,14,10,8,-,-,-,-,-,50,,,,
+Blue Ruin,6,7,5,,-,-,-,-,-,18,,,,
+The Tower,6,5,6,4,-,-,-,-,-,21,,,,
+Brightcrown Woods,9,2,6,6,7,7,8,8,-,53,,,,
+Colossal Dungeon,11,19,7,13,8,4,13,-,-,75,,,,
+False Kings’ Castle,16,8,6,4,-,-,-,-,-,34,,,,
+Underburg,8,8,12,12,9,4,9,-,-,62,,,,
+Lost Frontier,7,6,9,8,5,7,5,-,-,47,,,,
+Hidden Kingdom,12,5,5,9,8,3,-,-,-,42,,,,
+Black Sanctum,7,7,6,6,8,7,-,-,-,41,,,,
+Deep Ruin,6,13,13,6,6,-,-,-,-,44,,,,
+The Dark Tower,5,7,10,8,6,5,-,-,-,41,,,,
+Philosopher’s Forest,6,12,8,11,4,6,-,-,-,47,,,,
+Bog,1,6,8,6,6,6,4,4,-,41,,,,
+Moulding Manor,4,16,9,16,16,16,13,10,-,100,,,,
+Bugstalk,7,10,7,7,12,9,6,-,-,58,,,,
+House of Nine Lives,19,9,14,10,11,4,5,-,-,72,,,,
+Phantom Tower,7,6,7,7,6,4,6,8,8,59,,,,
+Halted Ruin,6,6,4,5,7,7,8,9,-,52,,,,
+Tower of Anthumbra,4,6,7,7,6,4,6,-,-,40,,,,
+,,,,,,,,,Total:,1231,,,,
+,,,,,,,,,,,,,,
+"Notes: There are 5 platforms that are shared by two screens. They’re treated as one platform, that's why total number is 1231.",,,,,,,,,,,,,,
+"Platform is defined as any surface that the king can stand and jump from. If you cannot walk directly from one surface to another and back without jumping, then these are considered 2 separate platforms. This includes platforms in hidden areas. ",,,,,,,,,,,,,,
